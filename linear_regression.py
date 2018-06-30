@@ -70,8 +70,6 @@ opt_regressor.fit(X_opt_train, y_opt_train)
 opt_y_pred = opt_regressor.predict(X_opt_test)
 
 opt_regressor.score(X_opt_test, y_opt_test)
-# score: 0.3983919600000808
-
 
 from sklearn.metrics import mean_squared_error
 mean_squared_error(y_opt_test,opt_y_pred)
