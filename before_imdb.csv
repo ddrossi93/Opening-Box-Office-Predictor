@@ -1,26 +1,26 @@
 ,Title,Studio,Opening,Date,Director,Budget,imdbID,month,year,Actor,Genre,Writer
-6,Avengers: Infinity War,BV,"$257,698,183",4/27/2018,"Anthony Russo, Joe Russo","$321,000,000",tt4154756,4,2018,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Fantasy","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)"
-7,Star Wars: The Force Awakens,BV,"$247,966,675",12/18/2015,J.J. Abrams,"$245,000,000",tt2488496,12,2015,"Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver","Action, Adventure, Fantasy","Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas (based on characters created by)"
-8,Star Wars: The Last Jedi,BV,"$220,009,584",12/15/2017,Rian Johnson," $620,181,382, 19 April 2018",tt2527336,12,2017,"Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley","Action, Adventure, Fantasy","Rian Johnson, George Lucas (based on characters created by)"
-9,Jurassic World,Uni.,"$208,806,270",6/12/2015,Colin Trevorrow,"$150,000,000",tt0369610,6,2015,"Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio","Action, Adventure, Sci-Fi","Rick Jaffa (screenplay by), Amanda Silver (screenplay by), Colin Trevorrow (screenplay by), Derek Connolly (screenplay by), Rick Jaffa (story by), Amanda Silver (story by), Michael Crichton (based on the characters created by)"
+6,Avengers: Infinity War,BV,"$257,698,183",4/27/2018,"Anthony Russo, Joe Russo",,tt4154756,4,2018,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Fantasy","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)"
+7,Star Wars: The Force Awakens,BV,"$247,966,675",12/18/2015,J.J. Abrams,,tt2488496,12,2015,"Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver","Action, Adventure, Fantasy","Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas (based on characters created by)"
+8,Star Wars: The Last Jedi,BV,"$220,009,584",12/15/2017,Rian Johnson,,tt2527336,12,2017,"Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley","Action, Adventure, Fantasy","Rian Johnson, George Lucas (based on characters created by)"
+9,Jurassic World,Uni.,"$208,806,270",6/12/2015,Colin Trevorrow,,tt0369610,6,2015,"Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio","Action, Adventure, Sci-Fi","Rick Jaffa (screenplay by), Amanda Silver (screenplay by), Colin Trevorrow (screenplay by), Derek Connolly (screenplay by), Rick Jaffa (story by), Amanda Silver (story by), Michael Crichton (based on the characters created by)"
 10,Marvel's The Avengers,BV,"$207,438,708",5/4/2012,,,,5,2012,,,
-11,Black Panther,BV,"$202,003,951",2/16/2018,,,,2,2018,,,
-12,Avengers: Age of Ultron,BV,"$191,271,109",5/1/2015,,,,5,2015,,,
-13,Incredibles 2,BV,"$182,687,905",6/15/2018,,,,6,2018,,,
-14,Captain America: Civil War,BV,"$179,139,142",5/6/2016,,,,5,2016,,,
+11,Black Panther,BV,"$202,003,951",2/16/2018,Ryan Coogler,,tt1825683,2,2018,"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira","Action, Adventure, Sci-Fi","Ryan Coogler, Joe Robert Cole, Stan Lee (based on the Marvel Comics by), Jack Kirby (based on the Marvel Comics by)"
+12,Avengers: Age of Ultron,BV,"$191,271,109",5/1/2015,Joss Whedon,,tt2395427,5,2015,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Sci-Fi","Joss Whedon, Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (character created by: Captain America), Jack Kirby (character created by: Captain America), Jim Starlin (character created by: Thanos)"
+13,Incredibles 2,BV,"$182,687,905",6/15/2018,Brad Bird,,tt3606756,6,2018,"Craig T. Nelson, Holly Hunter, Sarah Vowell, Huck Milner","Animation, Action, Adventure",Brad Bird
+14,Captain America: Civil War,BV,"$179,139,142",5/6/2016,"Anthony Russo, Joe Russo",,tt3498820,5,2016,"Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan","Action, Adventure, Sci-Fi","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Joe Simon (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by)"
 15,Beauty and the Beast (2017),BV,"$174,750,616",3/17/2017,,,,3,2017,,,
-16,Iron Man 3,BV,"$174,144,585",5/3/2013,,,,5,2013,,,
-17,Harry Potter and the Deathly Hallows Part 2,WB,"$169,189,427",7/15/2011,,,,7,2011,,,
-18,Batman v Superman: Dawn of Justice,WB,"$166,007,347",3/25/2016,,,,3,2016,,,
-19,The Dark Knight Rises,WB,"$160,887,295",7/20/2012,,,,7,2012,,,
-21,The Hunger Games: Catching Fire,LGF,"$158,074,286",11/22/2013,,,,11,2013,,,
-22,Rogue One: A Star Wars Story,BV,"$155,081,681",12/16/2016,,,,12,2016,,,
-23,The Hunger Games,LGF,"$152,535,747",3/23/2012,,,,3,2012,,,
-25,Jurassic World: Fallen Kingdom,Uni.,"$148,024,610",6/22/2018,,,,6,2018,,,
-26,Furious 7,Uni.,"$147,187,040",4/3/2015,,,,4,2015,,,
-27,Guardians of the Galaxy Vol. 2,BV,"$146,510,104",5/5/2017,,,,5,2017,,,
-29,The Twilight Saga: Breaking Dawn Part 2,LG/S,"$141,067,634",11/16/2012,,,,11,2012,,,
-30,The Twilight Saga: Breaking Dawn Part 1,Sum.,"$138,122,261",11/18/2011,,,,11,2011,,,
+16,Iron Man 3,BV,"$174,144,585",5/3/2013,Shane Black,,tt1300854,5,2013,"Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce","Action, Adventure, Sci-Fi","Drew Pearce (screenplay by), Shane Black (screenplay by), Stan Lee (based on the Marvel comic book by), Don Heck (based on the Marvel comic book by), Larry Lieber (based on the Marvel comic book by), Jack Kirby (based on the Marvel comic book by), Warren Ellis (based on the ""Extremis"" mini-series written by), Adi Granov (based on the ""Extremis"" mini-series illustrated by)"
+17,Harry Potter and the Deathly Hallows Part 2,WB,"$169,189,427",7/15/2011,David Yates,,tt1201607,7,2011,"Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe","Adventure, Drama, Fantasy","Steve Kloves (screenplay), J.K. Rowling (novel)"
+18,Batman v Superman: Dawn of Justice,WB,"$166,007,347",3/25/2016,Zack Snyder,,tt2975590,3,2016,"Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg","Action, Adventure, Fantasy","Chris Terrio, David S. Goyer, Bob Kane (Batman created by), Bill Finger (Batman created by), Jerry Siegel (Superman created by), Joe Shuster (Superman created by), William Moulton Marston (character created by: Wonder Woman)"
+19,The Dark Knight Rises,WB,"$160,887,295",7/20/2012,Christopher Nolan,,tt1345836,7,2012,"Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt","Action, Thriller","Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)"
+21,The Hunger Games: Catching Fire,LGF,"$158,074,286",11/22/2013,Francis Lawrence,,tt1951264,11,2013,"Jennifer Lawrence, Liam Hemsworth, Jack Quaid, Taylor St. Clair","Action, Adventure, Mystery","Simon Beaufoy (screenplay), Michael Arndt (screenplay), Suzanne Collins (novel)"
+22,Rogue One: A Star Wars Story,BV,"$155,081,681",12/16/2016,Gareth Edwards,,tt3748528,12,2016,"Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen","Action, Adventure, Sci-Fi","Chris Weitz (screenplay by), Tony Gilroy (screenplay by), John Knoll (story by), Gary Whitta (story by), George Lucas (based on characters created by)"
+23,The Hunger Games,LGF,"$152,535,747",3/23/2012,Gary Ross,,tt1392170,3,2012,"Stanley Tucci, Wes Bentley, Jennifer Lawrence, Willow Shields","Adventure, Sci-Fi, Thriller","Gary Ross (screenplay), Suzanne Collins (screenplay), Billy Ray (screenplay), Suzanne Collins (novel)"
+25,Jurassic World: Fallen Kingdom,Uni.,"$148,024,610",6/22/2018,J.A. Bayona,,tt4881806,6,2018,"Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith","Action, Adventure, Sci-Fi","Derek Connolly, Colin Trevorrow, Michael Crichton (based on characters created by)"
+26,Furious 7,Uni.,"$147,187,040",4/3/2015,James Wan,,tt2820852,4,2015,"Vin Diesel, Paul Walker, Jason Statham, Michelle Rodriguez","Action, Crime, Thriller","Chris Morgan, Gary Scott Thompson (characters)"
+27,Guardians of the Galaxy Vol. 2,BV,"$146,510,104",5/5/2017,James Gunn,,tt3896198,5,2017,"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel","Action, Adventure, Sci-Fi","James Gunn, Dan Abnett (based on the Marvel comics by), Andy Lanning (based on the Marvel comics by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Jim Starlin (Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Steve Gerber (Howard the Duck created by), Val Mayerik (Howard the Duck created by)"
+29,The Twilight Saga: Breaking Dawn Part 2,LG/S,"$141,067,634",11/16/2012,Bill Condon,,tt1673434,11,2012,"Kristen Stewart, Robert Pattinson, Taylor Lautner, Peter Facinelli","Adventure, Drama, Fantasy","Melissa Rosenberg (screenplay), Stephenie Meyer (novel)"
+30,The Twilight Saga: Breaking Dawn Part 1,Sum.,"$138,122,261",11/18/2011,N/A,,tt2395475,11,2011,Juley Ross,Short,N/A
 32,Finding Dory,BV,"$135,060,273",6/17/2016,,,,6,2016,,,
 33,Suicide Squad,WB,"$133,682,248",8/5/2016,,,,8,2016,,,
 34,Deadpool,Fox,"$132,434,639",2/12/2016,,,,2,2016,,,
@@ -129,28 +129,28 @@
 227,A Quiet Place,Par.,"$50,203,562",4/6/2018,,,,4,2018,,,
 228,The Boss Baby,Fox,"$50,198,902",3/31/2017,,,,3,2017,,,
 230,The Great Gatsby (2013),WB,"$50,085,185",5/10/2013,,,,5,2013,,,
-6,Taken 2,Fox,"$49,514,769",10/5/2012,"Anthony Russo, Joe Russo","$321,000,000",tt4154756,4,2018,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Fantasy","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)"
-7,How to Train Your Dragon 2,Fox,"$49,451,322",6/13/2014,J.J. Abrams,"$245,000,000",tt2488496,12,2015,"Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver","Action, Adventure, Fantasy","Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas (based on characters created by)"
-8,Rush Hour 3,NL,"$49,100,158",8/10/2007,Rian Johnson," $620,181,382, 19 April 2018",tt2527336,12,2017,"Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley","Action, Adventure, Fantasy","Rian Johnson, George Lucas (based on characters created by)"
-9,Wreck-It Ralph,BV,"$49,038,712",11/2/2012,Colin Trevorrow,"$150,000,000",tt0369610,6,2015,"Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio","Action, Adventure, Sci-Fi","Rick Jaffa (screenplay by), Amanda Silver (screenplay by), Colin Trevorrow (screenplay by), Derek Connolly (screenplay by), Rick Jaffa (story by), Amanda Silver (story by), Michael Crichton (based on the characters created by)"
+6,Taken 2,Fox,"$49,514,769",10/5/2012,"Anthony Russo, Joe Russo",,tt4154756,4,2018,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Fantasy","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)"
+7,How to Train Your Dragon 2,Fox,"$49,451,322",6/13/2014,J.J. Abrams,,tt2488496,12,2015,"Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver","Action, Adventure, Fantasy","Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas (based on characters created by)"
+8,Rush Hour 3,NL,"$49,100,158",8/10/2007,Rian Johnson,,tt2527336,12,2017,"Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley","Action, Adventure, Fantasy","Rian Johnson, George Lucas (based on characters created by)"
+9,Wreck-It Ralph,BV,"$49,038,712",11/2/2012,Colin Trevorrow,,tt0369610,6,2015,"Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio","Action, Adventure, Sci-Fi","Rick Jaffa (screenplay by), Amanda Silver (screenplay by), Colin Trevorrow (screenplay by), Derek Connolly (screenplay by), Rick Jaffa (story by), Amanda Silver (story by), Michael Crichton (based on the characters created by)"
 10,Neighbors,Uni.,"$49,033,915",5/9/2014,,,,5,2012,,,
-11,Alvin and the Chipmunks: The Squeakquel,Fox,"$48,875,415",12/23/2009,,,,2,2018,,,
-12,Tangled,BV,"$48,767,052",11/24/2010,,,,5,2015,,,
-13,Batman Begins,WB,"$48,745,440",6/15/2005,,,,6,2018,,,
-14,The Matrix Revolutions,WB,"$48,475,154",11/5/2003,,,,5,2016,,,
+11,Alvin and the Chipmunks: The Squeakquel,Fox,"$48,875,415",12/23/2009,Ryan Coogler,,tt1825683,2,2018,"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira","Action, Adventure, Sci-Fi","Ryan Coogler, Joe Robert Cole, Stan Lee (based on the Marvel Comics by), Jack Kirby (based on the Marvel Comics by)"
+12,Tangled,BV,"$48,767,052",11/24/2010,Joss Whedon,,tt2395427,5,2015,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Sci-Fi","Joss Whedon, Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (character created by: Captain America), Jack Kirby (character created by: Captain America), Jim Starlin (character created by: Thanos)"
+13,Batman Begins,WB,"$48,745,440",6/15/2005,Brad Bird,,tt3606756,6,2018,"Craig T. Nelson, Holly Hunter, Sarah Vowell, Huck Milner","Animation, Action, Adventure",Brad Bird
+14,The Matrix Revolutions,WB,"$48,475,154",11/5/2003,"Anthony Russo, Joe Russo",,tt3498820,5,2016,"Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan","Action, Adventure, Sci-Fi","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Joe Simon (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by)"
 15,Hotel Transylvania 2,Sony,"$48,464,322",9/25/2015,,,,3,2017,,,
-16,Scary Movie 3,Dim.,"$48,113,770",10/24/2003,,,,5,2013,,,
-17,The Fault in our Stars,Fox,"$48,002,523",6/6/2014,,,,7,2011,,,
-18,Mission: Impossible III,Par.,"$47,743,273",5/5/2006,,,,3,2016,,,
-19,Lara Croft: Tomb Raider,Par.,"$47,735,743",6/15/2001,,,,7,2012,,,
-21,The Longest Yard,Par.,"$47,606,480",5/27/2005,,,,11,2013,,,
-22,Shark Tale,DW,"$47,604,606",10/1/2004,,,,12,2016,,,
-23,Interstellar,Par.,"$47,510,360",11/7/2014,,,,3,2012,,,
-25,The Lord of the Rings: The Fellowship of the Ring,NL,"$47,211,490",12/19/2001,,,,6,2018,,,
-26,Die Another Day,MGM,"$47,072,040",11/22/2002,,,,4,2015,,,
-27,Talladega Nights: The Ballad of Ricky Bobby,Sony,"$47,042,215",8/4/2006,,,,5,2017,,,
-29,Jurassic Park,Uni.,"$47,026,828",6/11/1993,,,,11,2012,,,
-30,Troy,WB,"$46,865,412",5/14/2004,,,,11,2011,,,
+16,Scary Movie 3,Dim.,"$48,113,770",10/24/2003,Shane Black,,tt1300854,5,2013,"Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce","Action, Adventure, Sci-Fi","Drew Pearce (screenplay by), Shane Black (screenplay by), Stan Lee (based on the Marvel comic book by), Don Heck (based on the Marvel comic book by), Larry Lieber (based on the Marvel comic book by), Jack Kirby (based on the Marvel comic book by), Warren Ellis (based on the ""Extremis"" mini-series written by), Adi Granov (based on the ""Extremis"" mini-series illustrated by)"
+17,The Fault in our Stars,Fox,"$48,002,523",6/6/2014,David Yates,,tt1201607,7,2011,"Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe","Adventure, Drama, Fantasy","Steve Kloves (screenplay), J.K. Rowling (novel)"
+18,Mission: Impossible III,Par.,"$47,743,273",5/5/2006,Zack Snyder,,tt2975590,3,2016,"Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg","Action, Adventure, Fantasy","Chris Terrio, David S. Goyer, Bob Kane (Batman created by), Bill Finger (Batman created by), Jerry Siegel (Superman created by), Joe Shuster (Superman created by), William Moulton Marston (character created by: Wonder Woman)"
+19,Lara Croft: Tomb Raider,Par.,"$47,735,743",6/15/2001,Christopher Nolan,,tt1345836,7,2012,"Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt","Action, Thriller","Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)"
+21,The Longest Yard,Par.,"$47,606,480",5/27/2005,Francis Lawrence,,tt1951264,11,2013,"Jennifer Lawrence, Liam Hemsworth, Jack Quaid, Taylor St. Clair","Action, Adventure, Mystery","Simon Beaufoy (screenplay), Michael Arndt (screenplay), Suzanne Collins (novel)"
+22,Shark Tale,DW,"$47,604,606",10/1/2004,Gareth Edwards,,tt3748528,12,2016,"Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen","Action, Adventure, Sci-Fi","Chris Weitz (screenplay by), Tony Gilroy (screenplay by), John Knoll (story by), Gary Whitta (story by), George Lucas (based on characters created by)"
+23,Interstellar,Par.,"$47,510,360",11/7/2014,Gary Ross,,tt1392170,3,2012,"Stanley Tucci, Wes Bentley, Jennifer Lawrence, Willow Shields","Adventure, Sci-Fi, Thriller","Gary Ross (screenplay), Suzanne Collins (screenplay), Billy Ray (screenplay), Suzanne Collins (novel)"
+25,The Lord of the Rings: The Fellowship of the Ring,NL,"$47,211,490",12/19/2001,J.A. Bayona,,tt4881806,6,2018,"Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith","Action, Adventure, Sci-Fi","Derek Connolly, Colin Trevorrow, Michael Crichton (based on characters created by)"
+26,Die Another Day,MGM,"$47,072,040",11/22/2002,James Wan,,tt2820852,4,2015,"Vin Diesel, Paul Walker, Jason Statham, Michelle Rodriguez","Action, Crime, Thriller","Chris Morgan, Gary Scott Thompson (characters)"
+27,Talladega Nights: The Ballad of Ricky Bobby,Sony,"$47,042,215",8/4/2006,James Gunn,,tt3896198,5,2017,"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel","Action, Adventure, Sci-Fi","James Gunn, Dan Abnett (based on the Marvel comics by), Andy Lanning (based on the Marvel comics by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Jim Starlin (Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Steve Gerber (Howard the Duck created by), Val Mayerik (Howard the Duck created by)"
+29,Jurassic Park,Uni.,"$47,026,828",6/11/1993,Bill Condon,,tt1673434,11,2012,"Kristen Stewart, Robert Pattinson, Taylor Lautner, Peter Facinelli","Adventure, Drama, Fantasy","Melissa Rosenberg (screenplay), Stephenie Meyer (novel)"
+30,Troy,WB,"$46,865,412",5/14/2004,N/A,,tt2395475,11,2011,Juley Ross,Short,N/A
 32,Ice Age: Continental Drift,Fox,"$46,629,259",7/13/2012,,,,6,2016,,,
 33,Fifty Shades Darker,Uni.,"$46,607,250",2/10/2017,,,,8,2016,,,
 34,Trolls,Fox,"$46,581,142",11/4/2016,,,,2,2016,,,
@@ -199,28 +199,28 @@
 103,Safe House,Uni.,"$40,172,720",2/10/2012,,,,12,2013,,,
 106,Cloverfield,Par.,"$40,058,229",1/18/2008,,,,7,2014,,,
 107,Chicken Little,BV,"$40,049,778",11/4/2005,,,,6,2017,,,
-6,50 First Dates,Sony,"$39,852,237",2/13/2004,"Anthony Russo, Joe Russo","$321,000,000",tt4154756,4,2018,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Fantasy","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)"
-7,The Revenant,Fox,"$39,826,840",1/8/2016,J.J. Abrams,"$245,000,000",tt2488496,12,2015,"Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver","Action, Adventure, Fantasy","Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas (based on characters created by)"
-8,Wild Hogs,BV,"$39,699,023",3/2/2007,Rian Johnson," $620,181,382, 19 April 2018",tt2527336,12,2017,"Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley","Action, Adventure, Fantasy","Rian Johnson, George Lucas (based on characters created by)"
-9,Sherlock Holmes: A Game of Shadows,WB,"$39,637,079",12/16/2011,Colin Trevorrow,"$150,000,000",tt0369610,6,2015,"Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio","Action, Adventure, Sci-Fi","Rick Jaffa (screenplay by), Amanda Silver (screenplay by), Colin Trevorrow (screenplay by), Derek Connolly (screenplay by), Rick Jaffa (story by), Amanda Silver (story by), Michael Crichton (based on the characters created by)"
+6,50 First Dates,Sony,"$39,852,237",2/13/2004,"Anthony Russo, Joe Russo",,tt4154756,4,2018,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Fantasy","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)"
+7,The Revenant,Fox,"$39,826,840",1/8/2016,J.J. Abrams,,tt2488496,12,2015,"Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver","Action, Adventure, Fantasy","Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas (based on characters created by)"
+8,Wild Hogs,BV,"$39,699,023",3/2/2007,Rian Johnson,,tt2527336,12,2017,"Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley","Action, Adventure, Fantasy","Rian Johnson, George Lucas (based on characters created by)"
+9,Sherlock Holmes: A Game of Shadows,WB,"$39,637,079",12/16/2011,Colin Trevorrow,,tt0369610,6,2015,"Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio","Action, Adventure, Sci-Fi","Rick Jaffa (screenplay by), Amanda Silver (screenplay by), Colin Trevorrow (screenplay by), Derek Connolly (screenplay by), Rick Jaffa (story by), Amanda Silver (story by), Michael Crichton (based on the characters created by)"
 10,The Waterboy,BV,"$39,414,071",11/6/1998,,,,5,2012,,,
-11,Rio 2,Fox,"$39,327,869",4/11/2014,,,,2,2018,,,
-12,Rio,Fox,"$39,225,962",4/15/2011,,,,5,2015,,,
-13,Taken 3,Fox,"$39,201,657",1/9/2015,,,,6,2018,,,
-14,The Break-Up,Uni.,"$39,172,785",6/2/2006,,,,5,2016,,,
+11,Rio 2,Fox,"$39,327,869",4/11/2014,Ryan Coogler,,tt1825683,2,2018,"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira","Action, Adventure, Sci-Fi","Ryan Coogler, Joe Robert Cole, Stan Lee (based on the Marvel Comics by), Jack Kirby (based on the Marvel Comics by)"
+12,Rio,Fox,"$39,225,962",4/15/2011,Joss Whedon,,tt2395427,5,2015,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Sci-Fi","Joss Whedon, Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (character created by: Captain America), Jack Kirby (character created by: Captain America), Jim Starlin (character created by: Thanos)"
+13,Taken 3,Fox,"$39,201,657",1/9/2015,Brad Bird,,tt3606756,6,2018,"Craig T. Nelson, Holly Hunter, Sarah Vowell, Huck Milner","Animation, Action, Adventure",Brad Bird
+14,The Break-Up,Uni.,"$39,172,785",6/2/2006,"Anthony Russo, Joe Russo",,tt3498820,5,2016,"Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan","Action, Adventure, Sci-Fi","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Joe Simon (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by)"
 15,The Good Dinosaur,BV,"$39,155,217",11/25/2015,,,,3,2017,,,
-16,Ocean's Twelve,WB,"$39,153,380",12/10/2004,,,,5,2013,,,
-17,The Grudge,Sony,"$39,128,715",10/22/2004,,,,7,2011,,,
-18,Magic Mike,WB,"$39,127,170",6/29/2012,,,,3,2016,,,
-19,The Heat,Fox,"$39,115,043",6/28/2013,,,,7,2012,,,
-21,Dinosaur,BV,"$38,854,851",5/19/2000,,,,11,2013,,,
-22,Daddy's Home,Par.,"$38,740,203",12/25/2015,,,,12,2016,,,
-23,Get Smart,WB,"$38,683,480",6/20/2008,,,,3,2012,,,
-25,You Don't Mess with the Zohan,Sony,"$38,531,374",6/6/2008,,,,6,2018,,,
-26,The Legend of Tarzan,WB,"$38,527,856",7/1/2016,,,,4,2015,,,
-27,Over the Hedge,P/DW,"$38,457,003",5/19/2006,,,,5,2017,,,
-29,Alien Vs. Predator,Fox,"$38,291,056",8/13/2004,,,,11,2012,,,
-30,The Angry Birds Movie,Sony,"$38,155,177",5/20/2016,,,,11,2011,,,
+16,Ocean's Twelve,WB,"$39,153,380",12/10/2004,Shane Black,,tt1300854,5,2013,"Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce","Action, Adventure, Sci-Fi","Drew Pearce (screenplay by), Shane Black (screenplay by), Stan Lee (based on the Marvel comic book by), Don Heck (based on the Marvel comic book by), Larry Lieber (based on the Marvel comic book by), Jack Kirby (based on the Marvel comic book by), Warren Ellis (based on the ""Extremis"" mini-series written by), Adi Granov (based on the ""Extremis"" mini-series illustrated by)"
+17,The Grudge,Sony,"$39,128,715",10/22/2004,David Yates,,tt1201607,7,2011,"Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe","Adventure, Drama, Fantasy","Steve Kloves (screenplay), J.K. Rowling (novel)"
+18,Magic Mike,WB,"$39,127,170",6/29/2012,Zack Snyder,,tt2975590,3,2016,"Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg","Action, Adventure, Fantasy","Chris Terrio, David S. Goyer, Bob Kane (Batman created by), Bill Finger (Batman created by), Jerry Siegel (Superman created by), Joe Shuster (Superman created by), William Moulton Marston (character created by: Wonder Woman)"
+19,The Heat,Fox,"$39,115,043",6/28/2013,Christopher Nolan,,tt1345836,7,2012,"Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt","Action, Thriller","Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)"
+21,Dinosaur,BV,"$38,854,851",5/19/2000,Francis Lawrence,,tt1951264,11,2013,"Jennifer Lawrence, Liam Hemsworth, Jack Quaid, Taylor St. Clair","Action, Adventure, Mystery","Simon Beaufoy (screenplay), Michael Arndt (screenplay), Suzanne Collins (novel)"
+22,Daddy's Home,Par.,"$38,740,203",12/25/2015,Gareth Edwards,,tt3748528,12,2016,"Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen","Action, Adventure, Sci-Fi","Chris Weitz (screenplay by), Tony Gilroy (screenplay by), John Knoll (story by), Gary Whitta (story by), George Lucas (based on characters created by)"
+23,Get Smart,WB,"$38,683,480",6/20/2008,Gary Ross,,tt1392170,3,2012,"Stanley Tucci, Wes Bentley, Jennifer Lawrence, Willow Shields","Adventure, Sci-Fi, Thriller","Gary Ross (screenplay), Suzanne Collins (screenplay), Billy Ray (screenplay), Suzanne Collins (novel)"
+25,You Don't Mess with the Zohan,Sony,"$38,531,374",6/6/2008,J.A. Bayona,,tt4881806,6,2018,"Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith","Action, Adventure, Sci-Fi","Derek Connolly, Colin Trevorrow, Michael Crichton (based on characters created by)"
+26,The Legend of Tarzan,WB,"$38,527,856",7/1/2016,James Wan,,tt2820852,4,2015,"Vin Diesel, Paul Walker, Jason Statham, Michelle Rodriguez","Action, Crime, Thriller","Chris Morgan, Gary Scott Thompson (characters)"
+27,Over the Hedge,P/DW,"$38,457,003",5/19/2006,James Gunn,,tt3896198,5,2017,"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel","Action, Adventure, Sci-Fi","James Gunn, Dan Abnett (based on the Marvel comics by), Andy Lanning (based on the Marvel comics by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Jim Starlin (Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Steve Gerber (Howard the Duck created by), Val Mayerik (Howard the Duck created by)"
+29,Alien Vs. Predator,Fox,"$38,291,056",8/13/2004,Bill Condon,,tt1673434,11,2012,"Kristen Stewart, Robert Pattinson, Taylor Lautner, Peter Facinelli","Adventure, Drama, Fantasy","Melissa Rosenberg (screenplay), Stephenie Meyer (novel)"
+30,The Angry Birds Movie,Sony,"$38,155,177",5/20/2016,N/A,,tt2395475,11,2011,Juley Ross,Short,N/A
 32,Ocean's Eleven,WB,"$38,107,822",12/7/2001,,,,6,2016,,,
 33,Rango,Par.,"$38,079,323",3/4/2011,,,,8,2016,,,
 34,Inglourious Basterds,Wein.,"$38,054,676",8/21/2009,,,,2,2016,,,
@@ -315,28 +315,28 @@
 196,Saw V,LGF,"$30,053,954",10/24/2008,,,,5,2015,,,
 198,A Christmas Carol (2009),BV,"$30,051,075",11/6/2009,,,,6,2012,,,
 199,Tyler Perry's Madea's Family Reunion,LGF,"$30,030,661",2/24/2006,,,,10,2015,,,
-6,The Purge: Anarchy,Uni.,"$29,816,675",7/18/2014,"Anthony Russo, Joe Russo","$321,000,000",tt4154756,4,2018,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Fantasy","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)"
-7,Elysium,TriS,"$29,807,393",8/9/2013,J.J. Abrams,"$245,000,000",tt2488496,12,2015,"Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver","Action, Adventure, Fantasy","Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas (based on characters created by)"
-8,Hercules (2014),Par.,"$29,800,263",7/25/2014,Rian Johnson," $620,181,382, 19 April 2018",tt2527336,12,2017,"Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley","Action, Adventure, Fantasy","Rian Johnson, George Lucas (based on characters created by)"
-9,Constantine,WB,"$29,769,098",2/18/2005,Colin Trevorrow,"$150,000,000",tt0369610,6,2015,"Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio","Action, Adventure, Sci-Fi","Rick Jaffa (screenplay by), Amanda Silver (screenplay by), Colin Trevorrow (screenplay by), Derek Connolly (screenplay by), Rick Jaffa (story by), Amanda Silver (story by), Michael Crichton (based on the characters created by)"
+6,The Purge: Anarchy,Uni.,"$29,816,675",7/18/2014,"Anthony Russo, Joe Russo",,tt4154756,4,2018,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Fantasy","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)"
+7,Elysium,TriS,"$29,807,393",8/9/2013,J.J. Abrams,,tt2488496,12,2015,"Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver","Action, Adventure, Fantasy","Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas (based on characters created by)"
+8,Hercules (2014),Par.,"$29,800,263",7/25/2014,Rian Johnson,,tt2527336,12,2017,"Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley","Action, Adventure, Fantasy","Rian Johnson, George Lucas (based on characters created by)"
+9,Constantine,WB,"$29,769,098",2/18/2005,Colin Trevorrow,,tt0369610,6,2015,"Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio","Action, Adventure, Sci-Fi","Rick Jaffa (screenplay by), Amanda Silver (screenplay by), Colin Trevorrow (screenplay by), Derek Connolly (screenplay by), Rick Jaffa (story by), Amanda Silver (story by), Michael Crichton (based on the characters created by)"
 10,What Lies Beneath,DW,"$29,702,959",7/21/2000,,,,5,2012,,,
-11,The Flintstones,Uni.,"$29,688,730",5/27/1994,,,,2,2018,,,
-12,Dark Shadows,WB,"$29,685,274",5/11/2012,,,,5,2015,,,
-13,Daddy's Home 2,Par.,"$29,651,193",11/10/2017,,,,6,2018,,,
-14,Creed,WB (NL),"$29,632,823",11/25/2015,,,,5,2016,,,
+11,The Flintstones,Uni.,"$29,688,730",5/27/1994,Ryan Coogler,,tt1825683,2,2018,"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira","Action, Adventure, Sci-Fi","Ryan Coogler, Joe Robert Cole, Stan Lee (based on the Marvel Comics by), Jack Kirby (based on the Marvel Comics by)"
+12,Dark Shadows,WB,"$29,685,274",5/11/2012,Joss Whedon,,tt2395427,5,2015,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Sci-Fi","Joss Whedon, Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (character created by: Captain America), Jack Kirby (character created by: Captain America), Jim Starlin (character created by: Thanos)"
+13,Daddy's Home 2,Par.,"$29,651,193",11/10/2017,Brad Bird,,tt3606756,6,2018,"Craig T. Nelson, Holly Hunter, Sarah Vowell, Huck Milner","Animation, Action, Adventure",Brad Bird
+14,Creed,WB (NL),"$29,632,823",11/25/2015,"Anthony Russo, Joe Russo",,tt3498820,5,2016,"Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan","Action, Adventure, Sci-Fi","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Joe Simon (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by)"
 15,Insidious: The Last Key,Uni.,"$29,581,355",1/5/2018,,,,3,2017,,,
-16,Mission: Impossible - Ghost Protocol,Par.,"$29,556,629",12/21/2011,,,,5,2013,,,
-17,Pocahontas,BV,"$29,531,619",6/23/1995,,,,7,2011,,,
-18,Justin Bieber: Never Say Never,Par.,"$29,514,054",2/11/2011,,,,3,2016,,,
-19,Gran Torino,WB,"$29,484,388",1/9/2009,,,,7,2012,,,
-21,Scooby-Doo 2: Monsters Unleashed,WB,"$29,438,331",3/26/2004,,,,11,2013,,,
-22,Indiana Jones and the Last Crusade,Par.,"$29,355,021",5/24/1989,,,,12,2016,,,
-23,A.I. Artificial Intelligence,WB,"$29,352,630",6/29/2001,,,,3,2012,,,
-25,Beverly Hills Chihuahua,BV,"$29,300,465",10/3/2008,,,,6,2018,,,
-26,Tyler Perry's Why Did I Get Married Too?,LGF,"$29,289,537",4/2/2010,,,,4,2015,,,
-27,Think Like a Man Too,SGem,"$29,241,911",6/20/2014,,,,5,2017,,,
-29,The Lone Ranger,BV,"$29,210,849",7/3/2013,,,,11,2012,,,
-30,The Blair Witch Project,Art.,"$29,207,381",7/30/1999,,,,11,2011,,,
+16,Mission: Impossible - Ghost Protocol,Par.,"$29,556,629",12/21/2011,Shane Black,,tt1300854,5,2013,"Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce","Action, Adventure, Sci-Fi","Drew Pearce (screenplay by), Shane Black (screenplay by), Stan Lee (based on the Marvel comic book by), Don Heck (based on the Marvel comic book by), Larry Lieber (based on the Marvel comic book by), Jack Kirby (based on the Marvel comic book by), Warren Ellis (based on the ""Extremis"" mini-series written by), Adi Granov (based on the ""Extremis"" mini-series illustrated by)"
+17,Pocahontas,BV,"$29,531,619",6/23/1995,David Yates,,tt1201607,7,2011,"Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe","Adventure, Drama, Fantasy","Steve Kloves (screenplay), J.K. Rowling (novel)"
+18,Justin Bieber: Never Say Never,Par.,"$29,514,054",2/11/2011,Zack Snyder,,tt2975590,3,2016,"Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg","Action, Adventure, Fantasy","Chris Terrio, David S. Goyer, Bob Kane (Batman created by), Bill Finger (Batman created by), Jerry Siegel (Superman created by), Joe Shuster (Superman created by), William Moulton Marston (character created by: Wonder Woman)"
+19,Gran Torino,WB,"$29,484,388",1/9/2009,Christopher Nolan,,tt1345836,7,2012,"Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt","Action, Thriller","Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)"
+21,Scooby-Doo 2: Monsters Unleashed,WB,"$29,438,331",3/26/2004,Francis Lawrence,,tt1951264,11,2013,"Jennifer Lawrence, Liam Hemsworth, Jack Quaid, Taylor St. Clair","Action, Adventure, Mystery","Simon Beaufoy (screenplay), Michael Arndt (screenplay), Suzanne Collins (novel)"
+22,Indiana Jones and the Last Crusade,Par.,"$29,355,021",5/24/1989,Gareth Edwards,,tt3748528,12,2016,"Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen","Action, Adventure, Sci-Fi","Chris Weitz (screenplay by), Tony Gilroy (screenplay by), John Knoll (story by), Gary Whitta (story by), George Lucas (based on characters created by)"
+23,A.I. Artificial Intelligence,WB,"$29,352,630",6/29/2001,Gary Ross,,tt1392170,3,2012,"Stanley Tucci, Wes Bentley, Jennifer Lawrence, Willow Shields","Adventure, Sci-Fi, Thriller","Gary Ross (screenplay), Suzanne Collins (screenplay), Billy Ray (screenplay), Suzanne Collins (novel)"
+25,Beverly Hills Chihuahua,BV,"$29,300,465",10/3/2008,J.A. Bayona,,tt4881806,6,2018,"Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith","Action, Adventure, Sci-Fi","Derek Connolly, Colin Trevorrow, Michael Crichton (based on characters created by)"
+26,Tyler Perry's Why Did I Get Married Too?,LGF,"$29,289,537",4/2/2010,James Wan,,tt2820852,4,2015,"Vin Diesel, Paul Walker, Jason Statham, Michelle Rodriguez","Action, Crime, Thriller","Chris Morgan, Gary Scott Thompson (characters)"
+27,Think Like a Man Too,SGem,"$29,241,911",6/20/2014,James Gunn,,tt3896198,5,2017,"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel","Action, Adventure, Sci-Fi","James Gunn, Dan Abnett (based on the Marvel comics by), Andy Lanning (based on the Marvel comics by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Jim Starlin (Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Steve Gerber (Howard the Duck created by), Val Mayerik (Howard the Duck created by)"
+29,The Lone Ranger,BV,"$29,210,849",7/3/2013,Bill Condon,,tt1673434,11,2012,"Kristen Stewart, Robert Pattinson, Taylor Lautner, Peter Facinelli","Adventure, Drama, Fantasy","Melissa Rosenberg (screenplay), Stephenie Meyer (novel)"
+30,The Blair Witch Project,Art.,"$29,207,381",7/30/1999,N/A,,tt2395475,11,2011,Juley Ross,Short,N/A
 32,Toy Story,BV,"$29,140,617",11/22/1995,,,,6,2016,,,
 33,Sin City,Dim.,"$29,120,273",4/1/2005,,,,8,2016,,,
 34,Spy,Fox,"$29,085,719",6/5/2015,,,,2,2016,,,
@@ -406,28 +406,28 @@
 148,Kill Bill Vol. 2,Mira.,"$25,104,949",4/16/2004,,,,7,2010,,,
 154,Jack and Jill,Sony,"$25,003,575",11/11/2011,,,,7,2012,,,
 155,,,,,,,,4,2010,,,
-6,Flight,Par.,"$24,900,566",11/2/2012,"Anthony Russo, Joe Russo","$321,000,000",tt4154756,4,2018,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Fantasy","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)"
-7,White House Down,Sony,"$24,852,258",6/28/2013,J.J. Abrams,"$245,000,000",tt2488496,12,2015,"Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver","Action, Adventure, Fantasy","Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas (based on characters created by)"
-8,A Good Day to Die Hard,Fox,"$24,834,845",2/14/2013,Rian Johnson," $620,181,382, 19 April 2018",tt2527336,12,2017,"Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley","Action, Adventure, Fantasy","Rian Johnson, George Lucas (based on characters created by)"
-9,True Grit,Par.,"$24,830,443",12/22/2010,Colin Trevorrow,"$150,000,000",tt0369610,6,2015,"Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio","Action, Adventure, Sci-Fi","Rick Jaffa (screenplay by), Amanda Silver (screenplay by), Colin Trevorrow (screenplay by), Derek Connolly (screenplay by), Rick Jaffa (story by), Amanda Silver (story by), Michael Crichton (based on the characters created by)"
+6,Flight,Par.,"$24,900,566",11/2/2012,"Anthony Russo, Joe Russo",,tt4154756,4,2018,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Fantasy","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)"
+7,White House Down,Sony,"$24,852,258",6/28/2013,J.J. Abrams,,tt2488496,12,2015,"Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver","Action, Adventure, Fantasy","Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas (based on characters created by)"
+8,A Good Day to Die Hard,Fox,"$24,834,845",2/14/2013,Rian Johnson,,tt2527336,12,2017,"Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley","Action, Adventure, Fantasy","Rian Johnson, George Lucas (based on characters created by)"
+9,True Grit,Par.,"$24,830,443",12/22/2010,Colin Trevorrow,,tt0369610,6,2015,"Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio","Action, Adventure, Sci-Fi","Rick Jaffa (screenplay by), Amanda Silver (screenplay by), Colin Trevorrow (screenplay by), Derek Connolly (screenplay by), Rick Jaffa (story by), Amanda Silver (story by), Michael Crichton (based on the characters created by)"
 10,The Other Woman (2014),Fox,"$24,763,752",4/25/2014,,,,5,2012,,,
-11,Predators,Fox,"$24,760,882",7/9/2010,,,,2,2018,,,
-12,Zombieland,Sony,"$24,733,155",10/2/2009,,,,5,2015,,,
-13,10 Cloverfield Lane,Par.,"$24,727,437",3/11/2016,,,,6,2018,,,
-14,Taken,Fox,"$24,717,037",1/30/2009,,,,5,2016,,,
+11,Predators,Fox,"$24,760,882",7/9/2010,Ryan Coogler,,tt1825683,2,2018,"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira","Action, Adventure, Sci-Fi","Ryan Coogler, Joe Robert Cole, Stan Lee (based on the Marvel Comics by), Jack Kirby (based on the Marvel Comics by)"
+12,Zombieland,Sony,"$24,733,155",10/2/2009,Joss Whedon,,tt2395427,5,2015,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Sci-Fi","Joss Whedon, Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (character created by: Captain America), Jack Kirby (character created by: Captain America), Jim Starlin (character created by: Thanos)"
+13,10 Cloverfield Lane,Par.,"$24,727,437",3/11/2016,Brad Bird,,tt3606756,6,2018,"Craig T. Nelson, Holly Hunter, Sarah Vowell, Huck Milner","Animation, Action, Adventure",Brad Bird
+14,Taken,Fox,"$24,717,037",1/30/2009,"Anthony Russo, Joe Russo",,tt3498820,5,2016,"Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan","Action, Adventure, Sci-Fi","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Joe Simon (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by)"
 15,The Accountant,WB,"$24,710,273",10/14/2016,,,,3,2017,,,
-16,Collateral,DW,"$24,701,458",8/6/2004,,,,5,2013,,,
-17,Congo,Par.,"$24,642,539",6/9/1995,,,,7,2011,,,
-18,Lee Daniels' The Butler,Wein.,"$24,637,312",8/16/2013,,,,3,2016,,,
-19,Flightplan,BV,"$24,629,938",9/23/2005,,,,7,2012,,,
-21,Eraser,WB,"$24,566,446",6/21/1996,,,,11,2013,,,
-22,The Girl on the Train (2016),Uni.,"$24,536,265",10/7/2016,,,,12,2016,,,
-23,The Emoji Movie,Sony,"$24,531,923",7/28/2017,,,,3,2012,,,
-25,Forrest Gump,Par.,"$24,450,602",7/6/1994,,,,6,2018,,,
-26,Zero Dark Thirty,Sony,"$24,438,936",1/11/2013,,,,4,2015,,,
-27,Mean Girls,Par.,"$24,432,195",4/30/2004,,,,5,2017,,,
-29,Race to Witch Mountain,BV,"$24,402,214",3/13/2009,,,,11,2012,,,
-30,Contraband,Uni.,"$24,349,815",1/13/2012,,,,11,2011,,,
+16,Collateral,DW,"$24,701,458",8/6/2004,Shane Black,,tt1300854,5,2013,"Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce","Action, Adventure, Sci-Fi","Drew Pearce (screenplay by), Shane Black (screenplay by), Stan Lee (based on the Marvel comic book by), Don Heck (based on the Marvel comic book by), Larry Lieber (based on the Marvel comic book by), Jack Kirby (based on the Marvel comic book by), Warren Ellis (based on the ""Extremis"" mini-series written by), Adi Granov (based on the ""Extremis"" mini-series illustrated by)"
+17,Congo,Par.,"$24,642,539",6/9/1995,David Yates,,tt1201607,7,2011,"Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe","Adventure, Drama, Fantasy","Steve Kloves (screenplay), J.K. Rowling (novel)"
+18,Lee Daniels' The Butler,Wein.,"$24,637,312",8/16/2013,Zack Snyder,,tt2975590,3,2016,"Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg","Action, Adventure, Fantasy","Chris Terrio, David S. Goyer, Bob Kane (Batman created by), Bill Finger (Batman created by), Jerry Siegel (Superman created by), Joe Shuster (Superman created by), William Moulton Marston (character created by: Wonder Woman)"
+19,Flightplan,BV,"$24,629,938",9/23/2005,Christopher Nolan,,tt1345836,7,2012,"Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt","Action, Thriller","Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)"
+21,Eraser,WB,"$24,566,446",6/21/1996,Francis Lawrence,,tt1951264,11,2013,"Jennifer Lawrence, Liam Hemsworth, Jack Quaid, Taylor St. Clair","Action, Adventure, Mystery","Simon Beaufoy (screenplay), Michael Arndt (screenplay), Suzanne Collins (novel)"
+22,The Girl on the Train (2016),Uni.,"$24,536,265",10/7/2016,Gareth Edwards,,tt3748528,12,2016,"Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen","Action, Adventure, Sci-Fi","Chris Weitz (screenplay by), Tony Gilroy (screenplay by), John Knoll (story by), Gary Whitta (story by), George Lucas (based on characters created by)"
+23,The Emoji Movie,Sony,"$24,531,923",7/28/2017,Gary Ross,,tt1392170,3,2012,"Stanley Tucci, Wes Bentley, Jennifer Lawrence, Willow Shields","Adventure, Sci-Fi, Thriller","Gary Ross (screenplay), Suzanne Collins (screenplay), Billy Ray (screenplay), Suzanne Collins (novel)"
+25,Forrest Gump,Par.,"$24,450,602",7/6/1994,J.A. Bayona,,tt4881806,6,2018,"Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith","Action, Adventure, Sci-Fi","Derek Connolly, Colin Trevorrow, Michael Crichton (based on characters created by)"
+26,Zero Dark Thirty,Sony,"$24,438,936",1/11/2013,James Wan,,tt2820852,4,2015,"Vin Diesel, Paul Walker, Jason Statham, Michelle Rodriguez","Action, Crime, Thriller","Chris Morgan, Gary Scott Thompson (characters)"
+27,Mean Girls,Par.,"$24,432,195",4/30/2004,James Gunn,,tt3896198,5,2017,"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel","Action, Adventure, Sci-Fi","James Gunn, Dan Abnett (based on the Marvel comics by), Andy Lanning (based on the Marvel comics by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Jim Starlin (Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Steve Gerber (Howard the Duck created by), Val Mayerik (Howard the Duck created by)"
+29,Race to Witch Mountain,BV,"$24,402,214",3/13/2009,Bill Condon,,tt1673434,11,2012,"Kristen Stewart, Robert Pattinson, Taylor Lautner, Peter Facinelli","Adventure, Drama, Fantasy","Melissa Rosenberg (screenplay), Stephenie Meyer (novel)"
+30,Contraband,Uni.,"$24,349,815",1/13/2012,N/A,,tt2395475,11,2011,Juley Ross,Short,N/A
 32,The Haunted Mansion,BV,"$24,278,410",11/26/2003,,,,6,2016,,,
 33,The Last Samurai,WB,"$24,271,354",12/5/2003,,,,8,2016,,,
 34,TMNT,WB,"$24,255,205",3/23/2007,,,,2,2016,,,
@@ -536,28 +536,28 @@
 227,Takers,SGem,"$20,512,304",8/27/2010,,,,4,2018,,,
 228,Scary Movie 2,Mira.,"$20,503,356",7/4/2001,,,,3,2017,,,
 230,Mrs. Doubtfire,Fox,"$20,468,847",11/24/1993,,,,5,2013,,,
-6,Rocky IV,UA,"$19,991,537",11/27/1985,"Anthony Russo, Joe Russo","$321,000,000",tt4154756,4,2018,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Fantasy","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)"
-7,Pitch Perfect 3,Uni.,"$19,928,525",12/22/2017,J.J. Abrams,"$245,000,000",tt2488496,12,2015,"Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver","Action, Adventure, Fantasy","Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas (based on characters created by)"
-8,102 Dalmatians,BV,"$19,883,351",11/22/2000,Rian Johnson," $620,181,382, 19 April 2018",tt2527336,12,2017,"Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley","Action, Adventure, Fantasy","Rian Johnson, George Lucas (based on characters created by)"
-9,Ouija,Uni.,"$19,875,995",10/24/2014,Colin Trevorrow,"$150,000,000",tt0369610,6,2015,"Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio","Action, Adventure, Sci-Fi","Rick Jaffa (screenplay by), Amanda Silver (screenplay by), Colin Trevorrow (screenplay by), Derek Connolly (screenplay by), Rick Jaffa (story by), Amanda Silver (story by), Michael Crichton (based on the characters created by)"
+6,Rocky IV,UA,"$19,991,537",11/27/1985,"Anthony Russo, Joe Russo",,tt4154756,4,2018,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Fantasy","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)"
+7,Pitch Perfect 3,Uni.,"$19,928,525",12/22/2017,J.J. Abrams,,tt2488496,12,2015,"Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver","Action, Adventure, Fantasy","Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas (based on characters created by)"
+8,102 Dalmatians,BV,"$19,883,351",11/22/2000,Rian Johnson,,tt2527336,12,2017,"Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley","Action, Adventure, Fantasy","Rian Johnson, George Lucas (based on characters created by)"
+9,Ouija,Uni.,"$19,875,995",10/24/2014,Colin Trevorrow,,tt0369610,6,2015,"Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio","Action, Adventure, Sci-Fi","Rick Jaffa (screenplay by), Amanda Silver (screenplay by), Colin Trevorrow (screenplay by), Derek Connolly (screenplay by), Rick Jaffa (story by), Amanda Silver (story by), Michael Crichton (based on the characters created by)"
 10,Kick-Ass,LGF,"$19,828,687",4/16/2010,,,,5,2012,,,
-11,The Unborn (2009),Uni.,"$19,810,585",1/9/2009,,,,2,2018,,,
-12,The Cable Guy,Sony,"$19,806,226",6/14/1996,,,,5,2015,,,
-13,Spawn,NL,"$19,738,749",8/1/1997,,,,6,2018,,,
-14,Hansel and Gretel: Witch Hunters,Par.,"$19,690,956",1/25/2013,,,,5,2016,,,
+11,The Unborn (2009),Uni.,"$19,810,585",1/9/2009,Ryan Coogler,,tt1825683,2,2018,"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira","Action, Adventure, Sci-Fi","Ryan Coogler, Joe Robert Cole, Stan Lee (based on the Marvel Comics by), Jack Kirby (based on the Marvel Comics by)"
+12,The Cable Guy,Sony,"$19,806,226",6/14/1996,Joss Whedon,,tt2395427,5,2015,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Sci-Fi","Joss Whedon, Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (character created by: Captain America), Jack Kirby (character created by: Captain America), Jim Starlin (character created by: Thanos)"
+13,Spawn,NL,"$19,738,749",8/1/1997,Brad Bird,,tt3606756,6,2018,"Craig T. Nelson, Holly Hunter, Sarah Vowell, Huck Milner","Animation, Action, Adventure",Brad Bird
+14,Hansel and Gretel: Witch Hunters,Par.,"$19,690,956",1/25/2013,"Anthony Russo, Joe Russo",,tt3498820,5,2016,"Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan","Action, Adventure, Sci-Fi","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Joe Simon (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by)"
 15,White Chicks,Sony,"$19,676,748",6/23/2004,,,,3,2017,,,
-16,The Grey,ORF,"$19,665,101",1/27/2012,,,,5,2013,,,
-17,The Benchwarmers,SonR,"$19,656,429",4/7/2006,,,,7,2011,,,
-18,No Strings Attached,Par.,"$19,652,921",1/21/2011,,,,3,2016,,,
-19,Kingdom of Heaven,Fox,"$19,635,996",5/6/2005,,,,7,2012,,,
-21,Paranormal Activity,Par.,"$19,617,650",10/16/2009,,,,11,2013,,,
-22,The Animal,SonR,"$19,610,520",6/1/2001,,,,12,2016,,,
-23,Year One,Sony,"$19,610,304",6/19/2009,,,,3,2012,,,
-25,Pokemon: The Movie 2000,WB,"$19,575,608",7/21/2000,,,,6,2018,,,
-26,Hostel,Lions,"$19,556,099",1/6/2006,,,,4,2015,,,
-27,U-571,Uni.,"$19,553,310",4/21/2000,,,,5,2017,,,
-29,The Santa Clause 3: The Escape Clause,BV,"$19,504,038",11/3/2006,,,,11,2012,,,
-30,Moneyball,Sony,"$19,501,302",9/23/2011,,,,11,2011,,,
+16,The Grey,ORF,"$19,665,101",1/27/2012,Shane Black,,tt1300854,5,2013,"Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce","Action, Adventure, Sci-Fi","Drew Pearce (screenplay by), Shane Black (screenplay by), Stan Lee (based on the Marvel comic book by), Don Heck (based on the Marvel comic book by), Larry Lieber (based on the Marvel comic book by), Jack Kirby (based on the Marvel comic book by), Warren Ellis (based on the ""Extremis"" mini-series written by), Adi Granov (based on the ""Extremis"" mini-series illustrated by)"
+17,The Benchwarmers,SonR,"$19,656,429",4/7/2006,David Yates,,tt1201607,7,2011,"Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe","Adventure, Drama, Fantasy","Steve Kloves (screenplay), J.K. Rowling (novel)"
+18,No Strings Attached,Par.,"$19,652,921",1/21/2011,Zack Snyder,,tt2975590,3,2016,"Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg","Action, Adventure, Fantasy","Chris Terrio, David S. Goyer, Bob Kane (Batman created by), Bill Finger (Batman created by), Jerry Siegel (Superman created by), Joe Shuster (Superman created by), William Moulton Marston (character created by: Wonder Woman)"
+19,Kingdom of Heaven,Fox,"$19,635,996",5/6/2005,Christopher Nolan,,tt1345836,7,2012,"Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt","Action, Thriller","Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)"
+21,Paranormal Activity,Par.,"$19,617,650",10/16/2009,Francis Lawrence,,tt1951264,11,2013,"Jennifer Lawrence, Liam Hemsworth, Jack Quaid, Taylor St. Clair","Action, Adventure, Mystery","Simon Beaufoy (screenplay), Michael Arndt (screenplay), Suzanne Collins (novel)"
+22,The Animal,SonR,"$19,610,520",6/1/2001,Gareth Edwards,,tt3748528,12,2016,"Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen","Action, Adventure, Sci-Fi","Chris Weitz (screenplay by), Tony Gilroy (screenplay by), John Knoll (story by), Gary Whitta (story by), George Lucas (based on characters created by)"
+23,Year One,Sony,"$19,610,304",6/19/2009,Gary Ross,,tt1392170,3,2012,"Stanley Tucci, Wes Bentley, Jennifer Lawrence, Willow Shields","Adventure, Sci-Fi, Thriller","Gary Ross (screenplay), Suzanne Collins (screenplay), Billy Ray (screenplay), Suzanne Collins (novel)"
+25,Pokemon: The Movie 2000,WB,"$19,575,608",7/21/2000,J.A. Bayona,,tt4881806,6,2018,"Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith","Action, Adventure, Sci-Fi","Derek Connolly, Colin Trevorrow, Michael Crichton (based on characters created by)"
+26,Hostel,Lions,"$19,556,099",1/6/2006,James Wan,,tt2820852,4,2015,"Vin Diesel, Paul Walker, Jason Statham, Michelle Rodriguez","Action, Crime, Thriller","Chris Morgan, Gary Scott Thompson (characters)"
+27,U-571,Uni.,"$19,553,310",4/21/2000,James Gunn,,tt3896198,5,2017,"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel","Action, Adventure, Sci-Fi","James Gunn, Dan Abnett (based on the Marvel comics by), Andy Lanning (based on the Marvel comics by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Jim Starlin (Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Steve Gerber (Howard the Duck created by), Val Mayerik (Howard the Duck created by)"
+29,The Santa Clause 3: The Escape Clause,BV,"$19,504,038",11/3/2006,Bill Condon,,tt1673434,11,2012,"Kristen Stewart, Robert Pattinson, Taylor Lautner, Peter Facinelli","Adventure, Drama, Fantasy","Melissa Rosenberg (screenplay), Stephenie Meyer (novel)"
+30,Moneyball,Sony,"$19,501,302",9/23/2011,N/A,,tt2395475,11,2011,Juley Ross,Short,N/A
 32,Another 48 HRS.,Par.,"$19,475,559",6/8/1990,,,,6,2016,,,
 33,Argo,WB,"$19,458,109",10/12/2012,,,,8,2016,,,
 34,The Italian Job,Par.,"$19,457,944",5/30/2003,,,,2,2016,,,
@@ -582,112 +582,112 @@
 63,Riddick,Uni.,"$19,030,375",9/6/2013,,,,5,2013,,,
 64,Boogeyman,SGem,"$19,020,655",2/4/2005,,,,4,2014,,,
 65,The Score,Par.,"$19,018,807",7/13/2001,,,,8,2014,,,
-66,Wall Street: Money Never Sleeps,Fox,"$19,011,188",9/24/2010,,,,11,2017,,,
-68,Paddington,W/Dim.,"$18,966,676",1/16/2015,,,,5,2014,,,
-70,Step Up 2 the Streets,BV,"$18,908,826",2/14/2008,,,,5,2014,,,
-71,Limitless,Rela.,"$18,907,302",3/18/2011,,,,5,2014,,,
-72,The Wedding Singer,NL,"$18,865,080",2/13/1998,,,,6,2015,,,
-74,Hidalgo,BV,"$18,829,435",3/5/2004,,,,5,2011,,,
-75,Flushed Away,P/DW,"$18,814,323",11/3/2006,,,,1,2015,,,
-76,Red Tails,Fox,"$18,782,154",1/20/2012,,,,3,2017,,,
-77,The BFG,BV,"$18,775,350",7/1/2016,,,,11,2012,,,
-80,Me Before You,WB (NL),"$18,723,269",6/3/2016,,,,4,2011,,,
-81,Maid in Manhattan,SonR,"$18,711,407",12/13/2002,,,,5,2011,,,
-82,American Pie,Uni.,"$18,709,680",7/9/1999,,,,11,2013,,,
-84,Focus (2015),WB,"$18,685,137",2/27/2015,,,,2,2015,,,
-85,Ghost in the Shell (2017),Par.,"$18,676,033",3/31/2017,,,,11,2016,,,
-87,The Time Traveler's Wife,WB (NL),"$18,623,171",8/14/2009,,,,12,2012,,,
-88,Friends with Benefits,SGem,"$18,622,150",7/22/2011,,,,5,2018,,,
-90,Epic Movie,Fox,"$18,612,544",1/26/2007,,,,7,2013,,,
-91,Crimson Tide,BV,"$18,612,190",5/12/1995,,,,6,2013,,,
-93,Speed Racer,WB,"$18,561,337",5/9/2008,,,,3,2013,,,
-100,Baywatch,Par.,"$18,503,871",5/25/2017,,,,3,2016,,,
-101,Exit Wounds,WB,"$18,485,586",3/16/2001,,,,11,2016,,,
-103,The Great Wall,Uni.,"$18,469,620",2/17/2017,,,,12,2013,,,
-106,Indecent Proposal,Par.,"$18,387,632",4/9/1993,,,,7,2014,,,
-107,Analyze This,WB,"$18,383,507",3/5/1999,,,,6,2017,,,
-111,Paranormal Activity: The Marked Ones,Par.,"$18,343,611",1/3/2014,,,,5,2010,,,
-114,Atomic Blonde,Focus,"$18,286,420",7/28/2017,,,,11,2015,,,
-116,The Birdcage,MGM,"$18,275,828",3/8/1996,,,,3,2012,,,
-117,Yes Man,WB,"$18,262,471",12/19/2008,,,,5,2013,,,
-119,A Dog's Purpose,Uni.,"$18,222,810",1/27/2017,,,,5,2014,,,
-121,Rambo,LGF,"$18,203,876",1/25/2008,,,,5,2015,,,
-122,Star Trek VI: The Undiscovered Country,Par.,"$18,162,837",12/6/1991,,,,2,2014,,,
-129,Exorcist: The Beginning,WB,"$18,054,001",8/20/2004,,,,3,2015,,,
-132,Final Destination 5,WB (NL),"$18,031,396",8/12/2011,,,,11,2013,,,
-133,The Green Mile,WB,"$18,017,152",12/10/1999,,,,6,2013,,,
-134,Romeo Must Die,WB,"$18,014,503",3/22/2000,,,,6,2012,,,
-135,Sinister,LG/S,"$18,007,634",10/12/2012,,,,6,2011,,,
-136,The Guardian,BV,"$18,006,064",9/29/2006,,,,5,2016,,,
-137,Hero,Mira.,"$18,004,319",8/27/2004,,,,5,2011,,,
-138,This Christmas,SGem,"$17,958,183",11/21/2007,,,,8,2014,,,
-141,How to Be Single,WB (NL),"$17,878,911",2/12/2016,,,,7,2011,,,
-143,Need for Speed,BV,"$17,844,939",3/14/2014,,,,6,2010,,,
-147,"I Love You, Man",P/DW,"$17,810,270",3/20/2009,,,,5,2017,,,
-148,Spirit: Stallion of the Cimarron,DW,"$17,770,036",5/24/2002,,,,7,2010,,,
-154,First Sunday,SGem,"$17,714,821",1/11/2008,,,,7,2012,,,
-155,Resident Evil,SGem,"$17,707,106",3/15/2002,,,,4,2010,,,
-156,Surf's Up,Sony,"$17,640,249",6/8/2007,,,,3,2017,,,
-157,Max Payne,Fox,"$17,639,849",10/17/2008,,,,6,2012,,,
-159,The Sorcerer's Apprentice,BV,"$17,619,622",7/14/2010,,,,8,2015,,,
-163,The Smurfs 2,Sony,"$17,548,389",7/31/2013,,,,7,2016,,,
-164,The Cell,NL,"$17,515,050",8/18/2000,,,,7,2016,,,
-170,Michael,NL,"$17,435,711",12/25/1996,,,,7,2015,,,
-171,The Dictator,Par.,"$17,435,092",5/16/2012,,,,6,2014,,,
-173,This Means War,Fox,"$17,405,930",2/17/2012,,,,11,2016,,,
-174,Tyler Perry's The Family That Preys,LGF,"$17,381,218",9/12/2008,,,,7,2010,,,
-175,Star Trek V: The Final Frontier,Par.,"$17,375,648",6/9/1989,,,,7,2017,,,
-176,Bring It On,Uni.,"$17,362,105",8/25/2000,,,,2,2010,,,
-177,Into The Storm,WB (NL),"$17,346,427",8/8/2014,,,,6,2012,,,
-178,The Lizzie McGuire Movie,BV,"$17,338,755",5/2/2003,,,,11,2014,,,
-181,Titanic 3D,Par.,"$17,285,453",4/4/2012,,,,10,2013,,,
-182,The Boxtrolls,Focus,"$17,275,239",9/26/2014,,,,6,2010,,,
-183,The Man in the Iron Mask,MGM,"$17,271,450",3/13/1998,,,,7,2015,,,
-185,Sleepless in Seattle,TriS,"$17,253,733",6/25/1993,,,,2,2015,,,
-187,K-PAX,Uni.,"$17,215,275",10/26/2001,,,,6,2011,,,
-191,Tyler Perry's Acrimony,LGF,"$17,170,707",3/30/2018,,,,8,2011,,,
-192,Species,MGM,"$17,161,943",7/7/1995,,,,12,2014,,,
-194,The Kingdom,Uni.,"$17,135,055",9/28/2007,,,,3,2014,,,
-195,Changing Lanes,Par.,"$17,128,062",4/12/2002,,,,5,2012,,,
-196,The Call,TriS,"$17,118,745",3/15/2013,,,,5,2015,,,
-198,Night at the Museum: Secret of the Tomb,Fox,"$17,100,520",12/19/2014,,,,6,2012,,,
-199,Don't Say a Word,Fox,"$17,090,474",9/28/2001,,,,10,2015,,,
-202,Blade,NL,"$17,073,856",8/21/1998,,,,6,2017,,,
-203,Gangster Squad,WB,"$17,070,347",1/11/2013,,,,6,2011,,,
-204,The Butterfly Effect,NL,"$17,065,227",1/23/2004,,,,7,2013,,,
-205,Tears of the Sun,SonR,"$17,057,213",3/7/2003,,,,2,2017,,,
-207,Invincible,BV,"$17,031,122",8/25/2006,,,,10,2011,,,
-210,The Three Stooges,Fox,"$17,010,125",4/13/2012,,,,3,2015,,,
-213,The Book of Life (2014),Fox,"$17,005,218",10/17/2014,,,,3,2015,,,
-217,Office Christmas Party,Par.,"$16,890,204",12/9/2016,,,,6,2012,,,
-219,The Pelican Brief,WB,"$16,864,404",12/17/1993,,,,11,2017,,,
-222,Coraline,Focus,"$16,849,640",2/6/2009,,,,7,2017,,,
-224,Casper,Uni.,"$16,840,385",5/26/1995,,,,10,2010,,,
-227,American Made,Uni.,"$16,776,390",9/29/2017,,,,4,2018,,,
-228,Mortal Kombat: Annihilation,NL,"$16,771,694",11/21/1997,,,,3,2017,,,
-230,Message in a Bottle,WB,"$16,751,560",2/12/1999,,,,5,2013,,,
-6,Priest,SGem,"$14,953,664",5/13/2011,"Anthony Russo, Joe Russo","$321,000,000",tt4154756,4,2018,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Fantasy","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)"
-7,Tag,WB (NL),"$14,947,396",6/15/2018,J.J. Abrams,"$245,000,000",tt2488496,12,2015,"Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver","Action, Adventure, Fantasy","Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas (based on characters created by)"
-8,Dangerous Minds,BV,"$14,931,503",8/11/1995,Rian Johnson," $620,181,382, 19 April 2018",tt2527336,12,2017,"Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley","Action, Adventure, Fantasy","Rian Johnson, George Lucas (based on characters created by)"
-9,The Boy Next Door,Uni.,"$14,910,105",1/23/2015,Colin Trevorrow,"$150,000,000",tt0369610,6,2015,"Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio","Action, Adventure, Sci-Fi","Rick Jaffa (screenplay by), Amanda Silver (screenplay by), Colin Trevorrow (screenplay by), Derek Connolly (screenplay by), Rick Jaffa (story by), Amanda Silver (story by), Michael Crichton (based on the characters created by)"
+66,Sicario: Day of the Soldado,Sony,"$19,015,000",6/29/2018,,,,11,2017,,,
+68,The Spiderwick Chronicles,Par.,"$19,004,058",2/14/2008,,,,5,2014,,,
+70,The First Wives Club,Par.,"$18,913,411",9/20/1996,,,,5,2014,,,
+71,Step Up 2 the Streets,BV,"$18,908,826",2/14/2008,,,,5,2014,,,
+72,Limitless,Rela.,"$18,907,302",3/18/2011,,,,6,2015,,,
+74,Land of the Lost,Uni.,"$18,837,350",6/5/2009,,,,5,2011,,,
+75,Hidalgo,BV,"$18,829,435",3/5/2004,,,,1,2015,,,
+76,Flushed Away,P/DW,"$18,814,323",11/3/2006,,,,3,2017,,,
+77,Red Tails,Fox,"$18,782,154",1/20/2012,,,,11,2012,,,
+80,World Trade Center,Par.,"$18,730,762",8/9/2006,,,,4,2011,,,
+81,Me Before You,WB (NL),"$18,723,269",6/3/2016,,,,5,2011,,,
+82,Maid in Manhattan,SonR,"$18,711,407",12/13/2002,,,,11,2013,,,
+84,Scream 4,W/Dim.,"$18,692,090",4/15/2011,,,,2,2015,,,
+85,Focus (2015),WB,"$18,685,137",2/27/2015,,,,11,2016,,,
+87,Truth or Dare,Uni.,"$18,667,855",4/13/2018,,,,12,2012,,,
+88,The Time Traveler's Wife,WB (NL),"$18,623,171",8/14/2009,,,,5,2018,,,
+90,Jurassic Park 3D,Uni.,"$18,620,145",4/5/2013,,,,7,2013,,,
+91,Epic Movie,Fox,"$18,612,544",1/26/2007,,,,6,2013,,,
+93,Are We There Yet?,SonR,"$18,575,214",1/21/2005,,,,3,2013,,,
+100,Meet the Spartans,Fox,"$18,505,530",1/25/2008,,,,3,2016,,,
+101,Baywatch,Par.,"$18,503,871",5/25/2017,,,,11,2016,,,
+103,Dante's Peak,Uni.,"$18,479,435",2/7/1997,,,,12,2013,,,
+106,You've Got Mail,WB,"$18,426,749",12/18/1998,,,,7,2014,,,
+107,Indecent Proposal,Par.,"$18,387,632",4/9/1993,,,,6,2017,,,
+111,"Alexander and the Terrible, Horrible, No Good, Very Bad Day",BV,"$18,360,230",10/10/2014,,,,5,2010,,,
+114,Stigmata,MGM,"$18,309,666",9/10/1999,,,,11,2015,,,
+116,Saw,Lions,"$18,276,468",10/29/2004,,,,3,2012,,,
+117,The Birdcage,MGM,"$18,275,828",3/8/1996,,,,5,2013,,,
+119,Secret Window,Sony,"$18,237,568",3/12/2004,,,,5,2014,,,
+121,Cop Out,WB,"$18,211,126",2/26/2010,,,,5,2015,,,
+122,Rambo,LGF,"$18,203,876",1/25/2008,,,,2,2014,,,
+129,Bowfinger,Uni.,"$18,062,550",8/13/1999,,,,3,2015,,,
+132,Lady in the Water,WB,"$18,044,396",7/21/2006,,,,11,2013,,,
+133,Final Destination 5,WB (NL),"$18,031,396",8/12/2011,,,,6,2013,,,
+134,The Green Mile,WB,"$18,017,152",12/10/1999,,,,6,2012,,,
+135,Romeo Must Die,WB,"$18,014,503",3/22/2000,,,,6,2011,,,
+136,Sinister,LG/S,"$18,007,634",10/12/2012,,,,5,2016,,,
+137,The Guardian,BV,"$18,006,064",9/29/2006,,,,5,2011,,,
+138,Hero,Mira.,"$18,004,319",8/27/2004,,,,8,2014,,,
+141,Life of the Party,WB (NL),"$17,886,075",5/11/2018,,,,7,2011,,,
+143,My Big Fat Greek Wedding 2,Uni.,"$17,861,950",3/25/2016,,,,6,2010,,,
+147,Let's Be Cops,Fox,"$17,813,722",8/13/2014,,,,5,2017,,,
+148,"I Love You, Man",P/DW,"$17,810,270",3/20/2009,,,,7,2010,,,
+154,Forgetting Sarah Marshall,Uni.,"$17,725,330",4/18/2008,,,,7,2012,,,
+155,First Sunday,SGem,"$17,714,821",1/11/2008,,,,4,2010,,,
+156,Resident Evil,SGem,"$17,707,106",3/15/2002,,,,3,2017,,,
+157,Surf's Up,Sony,"$17,640,249",6/8/2007,,,,6,2012,,,
+159,Breaking In (2018),Uni.,"$17,630,285",5/11/2018,,,,8,2015,,,
+163,Just Married,Fox,"$17,548,993",1/10/2003,,,,7,2016,,,
+164,The Smurfs 2,Sony,"$17,548,389",7/31/2013,,,,7,2016,,,
+170,Old School,DW,"$17,453,216",2/21/2003,,,,7,2015,,,
+171,Michael,NL,"$17,435,711",12/25/1996,,,,6,2014,,,
+173,Baby Mama,Uni.,"$17,407,110",4/25/2008,,,,11,2016,,,
+174,This Means War,Fox,"$17,405,930",2/17/2012,,,,7,2010,,,
+175,Tyler Perry's The Family That Preys,LGF,"$17,381,218",9/12/2008,,,,7,2017,,,
+176,Star Trek V: The Final Frontier,Par.,"$17,375,648",6/9/1989,,,,2,2010,,,
+177,Bring It On,Uni.,"$17,362,105",8/25/2000,,,,6,2012,,,
+178,Into The Storm,WB (NL),"$17,346,427",8/8/2014,,,,11,2014,,,
+181,Coyote Ugly,BV,"$17,319,282",8/4/2000,,,,10,2013,,,
+182,Titanic 3D,Par.,"$17,285,453",4/4/2012,,,,6,2010,,,
+183,The Boxtrolls,Focus,"$17,275,239",9/26/2014,,,,7,2015,,,
+185,Down to Earth,Par.,"$17,268,883",2/16/2001,,,,2,2015,,,
+187,Maverick,WB,"$17,248,545",5/20/1994,,,,6,2011,,,
+191,The Client,WB,"$17,174,262",7/22/1994,,,,8,2011,,,
+192,Tyler Perry's Acrimony,LGF,"$17,170,707",3/30/2018,,,,12,2014,,,
+194,The Hunt for Red October,Par.,"$17,161,835",3/2/1990,,,,3,2014,,,
+195,The Kingdom,Uni.,"$17,135,055",9/28/2007,,,,5,2012,,,
+196,Changing Lanes,Par.,"$17,128,062",4/12/2002,,,,5,2015,,,
+198,I Can Only Imagine,RAtt.,"$17,108,914",3/16/2018,,,,6,2012,,,
+199,Night at the Museum: Secret of the Tomb,Fox,"$17,100,520",12/19/2014,,,,10,2015,,,
+202,Home Alone,Fox,"$17,081,997",11/16/1990,,,,6,2017,,,
+203,Blade,NL,"$17,073,856",8/21/1998,,,,6,2011,,,
+204,Gangster Squad,WB,"$17,070,347",1/11/2013,,,,7,2013,,,
+205,The Butterfly Effect,NL,"$17,065,227",1/23/2004,,,,2,2017,,,
+207,The Fifth Element,Sony,"$17,031,345",5/9/1997,,,,10,2011,,,
+210,Hotel for Dogs,P/DW,"$17,012,212",1/16/2009,,,,3,2015,,,
+213,Game Night,WB (NL),"$17,005,332",2/23/2018,,,,3,2015,,,
+217,Old Dogs,BV,"$16,894,511",11/25/2009,,,,6,2012,,,
+219,Star Trek IV: The Voyage Home,Par.,"$16,881,888",11/26/1986,,,,11,2017,,,
+222,Red Sparrow,Fox,"$16,853,422",3/2/2018,,,,7,2017,,,
+224,Water for Elephants,Fox,"$16,842,353",4/22/2011,,,,10,2010,,,
+227,A Million Ways to Die in the West,Uni.,"$16,797,385",5/30/2014,,,,4,2018,,,
+228,American Made,Uni.,"$16,776,390",9/29/2017,,,,3,2017,,,
+230,A Bad Moms Christmas,STX,"$16,759,161",11/1/2017,,,,5,2013,,,
+6,Priest,SGem,"$14,953,664",5/13/2011,"Anthony Russo, Joe Russo",,tt4154756,4,2018,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Fantasy","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (Captain America created by), Jack Kirby (Captain America created by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Jim Starlin (Thanos,  Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Steve Englehart (Mantis created by), Don Heck (Mantis created by)"
+7,Tag,WB (NL),"$14,947,396",6/15/2018,J.J. Abrams,,tt2488496,12,2015,"Harrison Ford, Mark Hamill, Carrie Fisher, Adam Driver","Action, Adventure, Fantasy","Lawrence Kasdan, J.J. Abrams, Michael Arndt, George Lucas (based on characters created by)"
+8,Dangerous Minds,BV,"$14,931,503",8/11/1995,Rian Johnson,,tt2527336,12,2017,"Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley","Action, Adventure, Fantasy","Rian Johnson, George Lucas (based on characters created by)"
+9,The Boy Next Door,Uni.,"$14,910,105",1/23/2015,Colin Trevorrow,,tt0369610,6,2015,"Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio","Action, Adventure, Sci-Fi","Rick Jaffa (screenplay by), Amanda Silver (screenplay by), Colin Trevorrow (screenplay by), Derek Connolly (screenplay by), Rick Jaffa (story by), Amanda Silver (story by), Michael Crichton (based on the characters created by)"
 10,Harold and Kumar Escape from Guantanamo Bay,WB (NL),"$14,908,404",4/25/2008,,,,5,2012,,,
-11,Surrogates,BV,"$14,902,692",9/25/2009,,,,2,2018,,,
-12,Passengers (2016),Sony,"$14,869,736",12/21/2016,,,,5,2015,,,
-13,Inferno,Sony,"$14,860,425",10/28/2016,,,,6,2018,,,
-14,Seven Pounds,Sony,"$14,851,136",12/19/2008,,,,5,2016,,,
+11,Surrogates,BV,"$14,902,692",9/25/2009,Ryan Coogler,,tt1825683,2,2018,"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira","Action, Adventure, Sci-Fi","Ryan Coogler, Joe Robert Cole, Stan Lee (based on the Marvel Comics by), Jack Kirby (based on the Marvel Comics by)"
+12,Passengers (2016),Sony,"$14,869,736",12/21/2016,Joss Whedon,,tt2395427,5,2015,"Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans","Action, Adventure, Sci-Fi","Joss Whedon, Stan Lee (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by), Joe Simon (character created by: Captain America), Jack Kirby (character created by: Captain America), Jim Starlin (character created by: Thanos)"
+13,Inferno,Sony,"$14,860,425",10/28/2016,Brad Bird,,tt3606756,6,2018,"Craig T. Nelson, Holly Hunter, Sarah Vowell, Huck Milner","Animation, Action, Adventure",Brad Bird
+14,Seven Pounds,Sony,"$14,851,136",12/19/2008,"Anthony Russo, Joe Russo",,tt3498820,5,2016,"Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan","Action, Adventure, Sci-Fi","Christopher Markus (screenplay by), Stephen McFeely (screenplay by), Joe Simon (based on the Marvel comics by), Jack Kirby (based on the Marvel comics by)"
 15,Pitch Perfect,Uni.,"$14,846,830",10/5/2012,,,,3,2017,,,
-16,American Assassin,LGF,"$14,846,778",9/15/2017,,,,5,2013,,,
-17,A Time to Kill,WB,"$14,823,159",7/24/1996,,,,7,2011,,,
-18,Miracles from Heaven,TriS,"$14,812,393",3/16/2016,,,,3,2016,,,
-19,Source Code,Sum.,"$14,812,094",4/1/2011,,,,7,2012,,,
-21,Australia,Fox,"$14,800,723",11/26/2008,,,,11,2013,,,
-22,The Rite,WB (NL),"$14,789,393",1/28/2011,,,,12,2016,,,
-23,Money Monster,TriS,"$14,788,157",5/13/2016,,,,3,2012,,,
-25,Made of Honor,Sony,"$14,756,850",5/2/2008,,,,6,2018,,,
-26,The Cabin in the Woods,LGF,"$14,743,614",4/13/2012,,,,4,2015,,,
-27,The Messengers,SGem,"$14,713,321",2/2/2007,,,,5,2017,,,
-29,Overboard (2018),PNT,"$14,711,101",5/4/2018,,,,11,2012,,,
-30,Ali,Sony,"$14,710,892",12/25/2001,,,,11,2011,,,
+16,American Assassin,LGF,"$14,846,778",9/15/2017,Shane Black,,tt1300854,5,2013,"Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce","Action, Adventure, Sci-Fi","Drew Pearce (screenplay by), Shane Black (screenplay by), Stan Lee (based on the Marvel comic book by), Don Heck (based on the Marvel comic book by), Larry Lieber (based on the Marvel comic book by), Jack Kirby (based on the Marvel comic book by), Warren Ellis (based on the ""Extremis"" mini-series written by), Adi Granov (based on the ""Extremis"" mini-series illustrated by)"
+17,A Time to Kill,WB,"$14,823,159",7/24/1996,David Yates,,tt1201607,7,2011,"Ralph Fiennes, Michael Gambon, Alan Rickman, Daniel Radcliffe","Adventure, Drama, Fantasy","Steve Kloves (screenplay), J.K. Rowling (novel)"
+18,Miracles from Heaven,TriS,"$14,812,393",3/16/2016,Zack Snyder,,tt2975590,3,2016,"Ben Affleck, Henry Cavill, Amy Adams, Jesse Eisenberg","Action, Adventure, Fantasy","Chris Terrio, David S. Goyer, Bob Kane (Batman created by), Bill Finger (Batman created by), Jerry Siegel (Superman created by), Joe Shuster (Superman created by), William Moulton Marston (character created by: Wonder Woman)"
+19,Source Code,Sum.,"$14,812,094",4/1/2011,Christopher Nolan,,tt1345836,7,2012,"Christian Bale, Gary Oldman, Tom Hardy, Joseph Gordon-Levitt","Action, Thriller","Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)"
+21,Australia,Fox,"$14,800,723",11/26/2008,Francis Lawrence,,tt1951264,11,2013,"Jennifer Lawrence, Liam Hemsworth, Jack Quaid, Taylor St. Clair","Action, Adventure, Mystery","Simon Beaufoy (screenplay), Michael Arndt (screenplay), Suzanne Collins (novel)"
+22,The Rite,WB (NL),"$14,789,393",1/28/2011,Gareth Edwards,,tt3748528,12,2016,"Felicity Jones, Diego Luna, Alan Tudyk, Donnie Yen","Action, Adventure, Sci-Fi","Chris Weitz (screenplay by), Tony Gilroy (screenplay by), John Knoll (story by), Gary Whitta (story by), George Lucas (based on characters created by)"
+23,Money Monster,TriS,"$14,788,157",5/13/2016,Gary Ross,,tt1392170,3,2012,"Stanley Tucci, Wes Bentley, Jennifer Lawrence, Willow Shields","Adventure, Sci-Fi, Thriller","Gary Ross (screenplay), Suzanne Collins (screenplay), Billy Ray (screenplay), Suzanne Collins (novel)"
+25,Made of Honor,Sony,"$14,756,850",5/2/2008,J.A. Bayona,,tt4881806,6,2018,"Chris Pratt, Bryce Dallas Howard, Rafe Spall, Justice Smith","Action, Adventure, Sci-Fi","Derek Connolly, Colin Trevorrow, Michael Crichton (based on characters created by)"
+26,The Cabin in the Woods,LGF,"$14,743,614",4/13/2012,James Wan,,tt2820852,4,2015,"Vin Diesel, Paul Walker, Jason Statham, Michelle Rodriguez","Action, Crime, Thriller","Chris Morgan, Gary Scott Thompson (characters)"
+27,The Messengers,SGem,"$14,713,321",2/2/2007,James Gunn,,tt3896198,5,2017,"Chris Pratt, Zoe Saldana, Dave Bautista, Vin Diesel","Action, Adventure, Sci-Fi","James Gunn, Dan Abnett (based on the Marvel comics by), Andy Lanning (based on the Marvel comics by), Steve Englehart (Star-Lord created by), Steve Gan (Star-Lord created by), Jim Starlin (Gamora and Drax created by), Stan Lee (Groot created by), Larry Lieber (Groot created by), Jack Kirby (Groot created by), Bill Mantlo (Rocket Raccoon created by), Keith Giffen (Rocket Raccoon created by), Steve Gerber (Howard the Duck created by), Val Mayerik (Howard the Duck created by)"
+29,Overboard (2018),PNT,"$14,711,101",5/4/2018,Bill Condon,,tt1673434,11,2012,"Kristen Stewart, Robert Pattinson, Taylor Lautner, Peter Facinelli","Adventure, Drama, Fantasy","Melissa Rosenberg (screenplay), Stephenie Meyer (novel)"
+30,Ali,Sony,"$14,710,892",12/25/2001,N/A,,tt2395475,11,2011,Juley Ross,Short,N/A
 32,War Dogs,WB,"$14,685,305",8/19/2016,,,,6,2016,,,
 33,Vacation,WB (NL),"$14,681,108",7/29/2015,,,,8,2016,,,
 34,Absolute Power,Sony,"$14,678,016",2/14/1997,,,,2,2016,,,
