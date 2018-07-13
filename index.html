@@ -44,7 +44,7 @@
                   <li><a href="visualizations/wind.html">Wind Speed</a></li>
                 </ul>
               </li>
-              <li><a href="comparison.html">Comparison</a></li>
+              <li><a href=#search>Predict</a></li>
               <li><a href="#cont-anc">Data</a></li>
             </ul>
           </div><!-- /.navbar-collapse -->
@@ -53,14 +53,30 @@
     </nav>
     <!-- End of navbar -->
 
-      </div>
-    </nav>
-    <div class="hero text-center">
+    </div>
+     </nav>
+     <div class="hero text-center">
       <h1>Box Office Predictor</h1>
       <p>The Truth is Out There</p>
     </div> 
+
     <div class="container" id="cont-anc">
-      <div class="row margin-top-100">
+      <div class="row margin-top-50">
+        <div id="search">
+          <button type="button" class="close">×</button>
+          <form>
+            <input type="search" value="" placeholder="enter your movie here" />
+            <div style="text-align: center">
+              <button type="submit" class="btn btn-primary">Search</button>
+            </div>
+          </form>
+        </div>
+      </div>
+              
+      <div class="row margin-top-50">
+
+        <!--search bar for model-->
+
         <table id="example" class="display" style="width:100%">
         <thead>
             <tr>
@@ -74,7 +90,7 @@
                 <th>Month</th>
                 <th>Year</th>
                 <th>Ticket_Price</th>
-                <th>Actor</th>
+                <th >Actor</th>
                 <th>Genre</th>
                 <th>Writer</th>
                 <th>Ratings</th>
@@ -108,7 +124,7 @@
         </div>
       </div>
     </div>
-    <footer class="footer">
+    <footer>
       <span class="bottom">Box Office Predictor</span>
     </footer>
   </div>
@@ -122,6 +138,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js"></script>
   <!-- custom javascript for app -->
   <script src="js/script.js"></script>
+  <!--used for model search bar-->
 </body>
 
 </html>

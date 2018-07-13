@@ -8,6 +8,7 @@ $.getJSON('https://api.myjson.com/bins/11ucm6', function(datajson) {
     console.log(data); 
 });
 
+//data table
 $(document).ready(function() {
     $('#example').DataTable( {
     	"scrollY": 600,
@@ -24,12 +25,10 @@ $(document).ready(function() {
             { "data": "Month" },
             { "data": "Year" },
             { "data": "Ticket_Price" },
-            { "data": "Actor" },
+            { "data": "Actor"},
             { "data": "Genre" },
             { "data": "Writer" },
             { "data": "Ratings" }
         ]
     } );
 } );
-
-
