@@ -1,7 +1,11 @@
 import requests as req
 from bs4 import BeautifulSoup
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
 
 def scrape(movie):
+    print('in scrape')
     movie_data = {
         'BUDGET' : 0,
         'YEAR' : 0,
@@ -11,45 +15,29 @@ def scrape(movie):
     omdb = 'http://www.omdbapi.com/?apikey=a74304ec&t='
     search = omdb + movie
     results = req.get(search).json()
+    poster = results['Poster']
     year = results['Released']
     year = year.split(' ')
     year = year[2]
+    print('got year')
     movie_data['YEAR'] = int(year) - 2000
-    imdbID = results['imdbID']
     actors = results['Actors']
     actors = actors.split(',')
     for actor in actors:
         if 'Robert Downey Jr.' in actor:
-            movie_data['RDJ'] = 0
+            movie_data['RDJ'] = 1
             break
+    print('got RDJ')
 
-
-
-    imdb = 'https://www.imdb.com/title/'
-    page = imdb +imdbID
-
-    response = req.get(page)
-    soup = BeautifulSoup(response.text, 'html.parser')
-    txt_block = soup.find_all('div', class_="txt-block")
-    budget_block = txt_block[8]
-    budget = budget_block.text
-    budget = budget.strip()
-    budget = budget.split('\n')[0]
-    budget = budget.split(':')[1]
-    if not budget:
-        budget_block = txt_block[9]
-        budget = budget_block.text
-        budget = budget.strip()
-        budget = budget.split('\n')[0]
-        budget = budget.split(':')[1]
-
-    budget.strip()
-    budget = budget.replace('$','')
-    budget = budget.replace(',','')
-
+    response = req.get('https://api.themoviedb.org/3/search/movie?api_key=c3bed3ac369b7af1cee6ce88624711e9&language=en-US&query=' + movie + '&page=1&include_adult=false').json()
+    id = response['results'][0]['id']
+    search = 'https://api.themoviedb.org/3/movie/' + str(id) + '?api_key=c3bed3ac369b7af1cee6ce88624711e9&language=en-US'
+    response = req.get(search).json()
+    budget = response['budget']
+    print(budget)
     movie_data['BUDGET'] = int(budget)
 
-    return movie_data
+    return movie_data, poster
 
 def fit():
     # Multiple Linear Regression

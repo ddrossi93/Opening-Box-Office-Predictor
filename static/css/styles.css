@@ -10,6 +10,11 @@ body {
   margin: 0;
 }
 
+.center {
+  margin: 0 auto;
+  width: 50%;
+};
+
 /* The wrapper contains all of the page's content besides the footer, which is pushed to the bottom of the page */
 .wrapper {
   position: relative;
@@ -41,7 +46,7 @@ body {
 
 .margin-top-100 {
   margin-top: 50px;
-} 
+}
 
 .margin-top-50 {
   margin-top: 50px;
@@ -53,8 +58,8 @@ body {
   height: 550px;
   padding: 20px;
   margin: 0;
-  background: black;
-  background-image: url("../images/nasa.jpg");
+  /* background: black; */
+  background-image: url("/static/images/tab.jpg");
   background-attachment: fixed;
   background-position: bottom center;
   background-size: cover;
@@ -165,7 +170,7 @@ body {
 #search .btn {
     text-align: center;
     color: #fff;
-    
+
     background-color: #428bca;
     border-color: #357ebd;
 }

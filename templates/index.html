@@ -36,17 +36,9 @@
           <!-- Collect the nav links, forms, and other content for toggling -->
           <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right navbar-right-custom">
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Plots <span class="caret"></span></a>
-                <ul class="dropdown-menu">
-                  <li><a href="visualizations/temp.html">Max Temperature</a></li>
-                  <li><a href="visualizations/humidity.html">Humidity</a></li>
-                  <li><a href="visualizations/cloudiness.html">Cloudiness</a></li>
-                  <li><a href="visualizations/wind.html">Wind Speed</a></li>
-                </ul>
-              </li>
               <li><a href=#predict-bar>Predict</a></li>
               <li><a href="#cont-anc">Data</a></li>
+              <li><a href="https://public.tableau.com/profile/vivian.plasencia#!/vizhome/OpeningWeekendBoxOfficeAnalysis/OpeningWeekendAnalysisDashboard?publish=yes" target="_blank">Visualize</a></li>
             </ul>
           </div>
           <!-- /.navbar-collapse -->
@@ -55,14 +47,10 @@
       <!-- /.container-fluid -->
     </nav>
     <!-- End of navbar -->
-
-    <!--enter dashboard image here-->
-    </div>
-    </nav>
-    <div class="hero text-center">
-      <h1>Box Office Predictor</h1>
-      <p>The Truth is Out There</p>
-    </div>
+    <a href="https://public.tableau.com/profile/vivian.plasencia#!/vizhome/OpeningWeekendBoxOfficeAnalysis/OpeningWeekendAnalysisDashboard?publish=yes" target="_blank">
+      <div class="hero text-center">
+      </div>
+    </a>
 
     <!--search bar for model-->
     <div class="container" id="predict-bar">
@@ -81,19 +69,20 @@
     <br>
     {% if prediction %}
       <div class="jumbotron jumbotron-fluid">
-        <div class="container">
+        <div class="container center">
+          <div class="center">
+            <img src="{{ poster }}" align="center" alt="movie-poster">
+          </div>
+          <p class="lead" align="center">This is a prediction for "{{ movie }}"</p>
           <h1 class="display-4">{{ '${:,.2f}'.format(prediction) }}</h1>
-          <p class="lead">This is a prediction for "{{ movie }}"</p>
         </div>
       </div>
     {% endif %}
 
 
-    <div class="row margin-top-50" id="cont-anc">
-
       <!--Data table-->
 
-      <table id="example" class="display" style="width:100%">
+      <table id="example" class="display table table-responsive" style="width:80%">
         <thead>
           <tr>
             <th>Title</th>
@@ -131,8 +120,6 @@
           </tr>
         </tfoot>
       </table>
-
-    </div>
     <div class="row">
       <div class="col-sm-12 col-sm-offset-0 col-md-10 col-md-offset-2 text-center pagination-container">
         <ul class="pagination" id="pagination">
@@ -142,6 +129,7 @@
     </div>
     <footer>
       <span class="bottom">Box Office Predictor</span>
+      <p>Budget Data Provided By <a href="https://www.themoviedb.org/">The Movie DB</a></p>
     </footer>
     </div>
     <!--used for jquery library-->
