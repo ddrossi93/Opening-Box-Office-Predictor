@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Box Office Movie Predictior</title>
+  </head>
+  <body>
+    <h1>Box Office Movie Predictor</h1>
+    <form name="predict-movie" action="{{ url_for('predict') }}" method="post">
+      <label for="movie-input">Movie</label>
+      <input type="text" name="movie-input" id="movie-input">
+      <button type="submit" name="submit" id="submit">Predict</button>
+    </form>
+  </body>
+</html>
